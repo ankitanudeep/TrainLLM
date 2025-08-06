@@ -1,0 +1,8 @@
+path: '/content/drive/MyDrive/Colab Notebooks/Train/dataset' 
+train: images/train
+val: images/val
+
+# these should match your COCO category names
+names:
+  0: Coffee
+  1: Tea
