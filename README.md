@@ -104,7 +104,7 @@ names:
 
 ---
 
-## 🚀 Final Result
+## Final Result
 
 Once training is done, the YOLO model will be saved under:
 
